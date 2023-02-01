@@ -11,7 +11,10 @@ pwd: password
 Now its the restaurant owner want to open branch in different areas like Vesu, Katargam, Adajan.
 The menu in these areas can differ from area to area.
 
-0. Add option to create branch
-1. Create the functionality to add branch specific menus and show it in frontend as well.
-2. Make reservations specific to branch.
-3. Once reservation is made, send the confirmation email. (you can use service like https://mailtrap.io for testing emails)
+The database is available restaurants.sql file.
+
+0. Setup the project and fix upfront errors
+1. Add option to create branch
+2. Create the functionality to add branch specific menus and show it in frontend as well.
+3. Make reservations specific to branch.
+4. Once reservation is made, send the confirmation email. (you can use service like https://mailtrap.io for testing emails)
